@@ -1,4 +1,4 @@
-## Interactive remote path-tracing using a High Performance Computing Cluster
+## Interactive remote path-tracing using High Performance Computing
 
 ![thumbnail](https://raw.github.com/dkoerner/msc-liverendering/master/thumbnail.png)
 
